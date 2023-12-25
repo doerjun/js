@@ -1,0 +1,1 @@
+console.log('the product of is 4*5');
